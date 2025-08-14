@@ -22,7 +22,7 @@ import {
   Shield,
   Crown,
 } from "lucide-react";
-
+a;
 const TeiscaWebsite = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeFilter, setActiveFilter] = useState("all");
